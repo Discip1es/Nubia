@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dolby">Dolby Digital Plus</string>
+    <string name="dolby_close">Выкл</string>
+    <string name="dolby_open">Открыть</string>
+    <string name="dolby_default">По умолчанию</string>
+    <string name="dolby_blues">Блюз</string>
+    <string name="dolby_classical">Классика</string>
+    <string name="dolby_hiphop">Хип хоп</string>
+    <string name="dolby_jazz">Джаз</string>
+    <string name="dolby_pop">Поп</string>
+    <string name="dolby_rock">Рок</string>
+    <string name="dolby_rb">R&amp;B</string>
+    <string name="dolby_country">Кантри</string>
+    <string name="dolby_electronic">Электронная</string>
+    <string name="dolby_dance">Танцевальная</string>
+    <string name="dolby_standard">Стандартная</string>
+    <string name="dolby_news">Новости</string>
+    <string name="dolby_sports">Спорт</string>
+    <string name="dolby_drama">Драма</string>
+    <string name="dolby_music_video">Музыкальное видео</string>
+    <string name="dolby_movie">Фильм</string>
+    <string name="dolby_comedy">Комедия</string>
+    <string name="dolby_action">Экшн</string>
+    <string name="dolby_musical">Мюзикл</string>
+    <string name="dolby_animated">Мультфильм</string>
+    <string name="dolby_variety_show">Варьете</string>
+    <string name="video_enhancement">Сильное видео</string>
+    <string name="audio_enhancement">Сильное аудио</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">Ok</string>
+</resources>

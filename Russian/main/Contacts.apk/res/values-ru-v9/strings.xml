@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_export_message">Список Ваших контактов будет экспортирован в файл: %s, файл находится в SD-карте</string>
+    <string name="confirm_export_message_storage">Список Ваших контактов будет экспортирован в файл: %s, файл находится в памяти телефона</string>
+</resources>

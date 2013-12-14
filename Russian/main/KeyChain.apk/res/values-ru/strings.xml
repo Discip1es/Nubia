@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Key Chain</string>
+    <string name="title_no_certs">Сертификаты не обнаружены</string>
+    <string name="title_select_cert">Выберите сертификат</string>
+    <string name="requesting_application">Для приложения %s требуется сертификат. Choosing a certificate will let the app use this identity with servers now and in the future.</string>
+    <string name="requesting_server">Это приложение идентифицировано как %s, но если вы доверяете этому приложению, можете предоставить ему права доступа к сертификату.</string>
+    <string name="install_new_cert_message">Вы можете установить сертификаты из PKCS#12 из файла %1$s или %2$s расширение с внешнего хранилища.</string>
+    <string name="install_new_cert_button_label">Установить</string>
+    <string name="allow_button">Разрешить</string>
+    <string name="deny_button">Отказать</string>
+</resources>

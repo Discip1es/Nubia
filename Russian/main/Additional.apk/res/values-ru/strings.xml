@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дополнительно</string>
+    <string name="inter_version_title">Внутренняя версия</string>
+    <string name="inter_baseband_version">Версия Baseband:</string>
+    <string name="inter_internal_version">Версия:</string>
+    <string name="inter_compile_time">Время компиляции:</string>
+    <string name="inter_modem_gpio">GPIO модема:</string>
+    <string name="inter_app_gpio">GPIO приложения:</string>
+    <string name="inter_unknown">Неизвестно</string>
+    <string name="port_title">Заводской порт</string>
+    <string name="screen_calibration">Экран калибруется, пожалуйста ждите</string>
+    <string name="screen_calib_finished">Калибровка завершена</string>
+    <string name="screen_calib_fail">Ошибка калибровки</string>
+    <string name="screen_calib_not_required">Калибровка экрана не требуется</string>
+    <string name="screen_calib_plugged">Пожалуйста отключите USB или зарядку и попробуйте снова</string>
+    <string name="screen_calib_pressed">Пожалуйста, не трогайте экран и попробуйте снова</string>
+    <string name="screen_calib_tips">Положите важе устройство на стол на 5 секунд, не подключайте по USB, зарядку и не касайтесь экрана.</string>
+    <string name="lte_hide">Спрятать режим сети LTE</string>
+    <string name="apn_mmsc_mode">MMSC</string>
+    <string name="edit_emmc_title">Редактировать MMSC</string>
+    <string name="apn_not_set_mode">Не установлено</string>
+    <string name="terminal_version_title">Версия терминала</string>
+    <string name="terminal_model">Название модели:</string>
+    <string name="terminal_hw_version">Версия HW:</string>
+    <string name="terminal_sw_version">Версия SW:</string>
+    <string name="terminal_prl_version">Версия PRL:</string>
+    <string name="terminal_meid">MEID:</string>
+    <string name="terminal_uimid">UIM ID:</string>
+    <string name="terminal_sid">SID:</string>
+    <string name="terminal_nid">NID:</string>
+    <string name="modem_dun_title">Модем Dun</string>
+    <string name="cdrom_title">CD-ROM</string>
+</resources>

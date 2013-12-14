@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_name">
+        <item>中国(大陆)</item>
+    </string-array>
+    <string-array name="country_code">
+        <item>+86</item>
+    </string-array>
+    <string-array name="country_code_for_mobile_login">
+        <item>+86</item>
+    </string-array>
+    <string-array name="safe_question">
+        <item>Нет сохранённого вопроса</item>
+        <item>Имя вашей матери?</item>
+        <item>Имя вашей (-го) бабушки (дедушки)?</item>
+        <item>В каком городе родился Ваш отец?</item>
+        <item>Какое имя у одного из Ваших учителей?</item>
+        <item>Какая модель у Вашего компьютера?</item>
+        <item>Какое название у Вашего любимого ресторана?</item>
+        <item>Каковы 4 последние цифры Вашего водительского удостоверения?</item>
+    </string-array>
+    <string-array name="safe_code">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>

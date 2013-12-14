@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Океания</item>
+        <item>Все</item>
+    </string-array>
+    <string-array name="date_format_values">
+        <item>мм-дд-гггг</item>
+        <item>дд-мм-гггг</item>
+        <item>гггг-мм-дд</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Никогда</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Немедленно</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Маленький</item>
+        <item>Нормальный</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Очень медленно</item>
+        <item>Медленно</item>
+        <item>Норально</item>
+        <item>Быстро</item>
+        <item>Очень быстро</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Очень низкий</item>
+        <item>Низкий</item>
+        <item>Обычный</item>
+        <item>Высокий</item>
+        <item>Очень высокий</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение…</item>
+        <item>Аутентификация…</item>
+        <item>Получение IP адреса…</item>
+        <item>Подключено</item>
+        <item>Прервано</item>
+        <item>Разрыв соединения…</item>
+        <item>Отключено</item>
+        <item>Безуспешно</item>
+        <item>Заболкировано</item>
+        <item>Временно прекращено. Плохое соединение</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item>Подключение к %1$s…</item>
+        <item>Аутентификация в %1$s…</item>
+        <item>Получение IP адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Прервано</item>
+        <item>Разрыв соединения с %1$s…</item>
+        <item>Отключено</item>
+        <item>Безуспешно</item>
+        <item>Заболкировано</item>
+        <item>Временно прекращено. Плохое соединение</item>
+        <item>Временно прекращено. Плохое соединение</item>
+        <item>Сканирование…</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Нажать кнопку</item>
+        <item>PIN от однорангового устройства</item>
+        <item>PIN от этого устройства</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Подключено</item>
+        <item>Приглашен</item>
+        <item>Безуспешно</item>
+        <item>Доступно</item>
+        <item>Вне диапазона</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>1 час</item>
+        <item>Без тайм-аута</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Низкий</item>
+        <item>Прекрасный</item>
+        <item>Хороший</item>
+        <item>Превосходный</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Всегда</item>
+        <item>Только когда подключен</item>
+        <item>Никогда (увеличивает использование данных)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Всегда</item>
+        <item>Только когда подключен</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Автоматически</item>
+        <item>только 5 GHz</item>
+        <item>только 2.4 GHz</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Подсчитать</item>
+        <item>Имя приложения</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Никакой</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Статический</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Никакой</item>
+        <item>Вручную</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Отключено</item>
+        <item>Оповещение</item>
+        <item>Вибрация</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Никакой</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP или CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Не выбрано</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Внутренняя память</item>
+        <item>Съемная SD карта</item>
+        <item>По усмотрению устройства</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Короткий</item>
+        <item>Средний</item>
+        <item>Длинный</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Никогда не проверять</item>
+        <item>Проерятьтолько для DRM контента</item>
+        <item>Проерять всегда</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Никогда не использовать проверку HDCP</item>
+        <item>Использовать проверку HDCP только для DRM контента</item>
+        <item>Всегда использовать проверку HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Анимация отключена</item>
+        <item>Анимация в масштабе .5x</item>
+        <item>Анимация в масштабе 1x</item>
+        <item>Анимация в масштабе 1.5x</item>
+        <item>Анимация в масштабе 2x</item>
+        <item>Анимация в масштабе 5x</item>
+        <item>Анимация в масштабе 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Анимация отключена</item>
+        <item>Анимация в масштабе .5x</item>
+        <item>Анимация в масштабе 1x</item>
+        <item>Анимация в масштабе 1.5x</item>
+        <item>Анимация в масштабе 2x</item>
+        <item>Анимация в масштабе 5x</item>
+        <item>Анимация в масштабе 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Анимация отключена</item>
+        <item>Анимация в масштабе .5x</item>
+        <item>Анимация в масштабе 1x</item>
+        <item>Анимация в масштабе 1.5x</item>
+        <item>Анимация в масштабе 2x</item>
+        <item>Анимация в масштабе 5x</item>
+        <item>Анимация в масштабе 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Нет данных</item>
+        <item>720 x 480 пикс. (mdpi)</item>
+        <item>1280 x 720 пикс. (tvdpi)</item>
+        <item>1920 x 1080 пикс. (xhdpi)</item>
+        <item>1280x720 (tvdpi)/1920x1080 (xhdpi)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Нет данных</item>
+        <item>Logcat</item>
+        <item>Systrace (графика)</item>
+        <item>Список вызовов в glGetError</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Стандартное ограничение</item>
+        <item>Без фоновых процессов</item>
+        <item>Не более 1 процесса</item>
+        <item>Не более 2 процессов</item>
+        <item>Не более 3 процессов</item>
+        <item>Не более 4 процессов</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN с общими ключами</item>
+        <item>L2TP/IPSec VPN с сертификатами</item>
+        <item>IPSec VPN с общими ключами и аутентификацией Xauth</item>
+        <item>IPSec VPN с сертификатами и аутентификацией Xauth</item>
+        <item>IPSec VPN с сертификатами и гибридной аутентификацией</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Отключено</item>
+        <item>Инициализация…</item>
+        <item>Подключение</item>
+        <item>Подключено</item>
+        <item>Тайм-аут</item>
+        <item>Безуспешно</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Спрашивать</item>
+        <item>Не разрешать</item>
+        <item>Разрешать всегда</item>
+    </string-array>
+    <string-array name="multi_sim_entries">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+    <string-array name="multi_sim_summaries">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+        <item>Напоминание</item>
+    </string-array>
+    <string-array name="multi_sim_summaries_voice">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+        <item>Подсказки пользователя</item>
+    </string-array>
+    <string-array name="multi_sim_entries_voice_without_prompt">
+        <item>Подписка 1</item>
+        <item>Подписка 2</item>
+    </string-array>
+    <string-array name="wifi_display_wps_option_setup">
+        <item>PIN</item>
+        <item>PBC</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingLeft="20.0px" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="20.0px" android:id="@id/oma_name_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dd_title_name" />
+    <TextView android:id="@id/oma_name" android:paddingBottom="10.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <TextView android:textSize="20.0px" android:id="@id/oma_type_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dd_title_type" />
+    <TextView android:id="@id/oma_type" android:paddingBottom="10.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <TextView android:textSize="20.0px" android:id="@id/oma_size_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dd_title_size" />
+    <TextView android:id="@id/oma_size" android:paddingBottom="10.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <TextView android:textSize="20.0px" android:id="@id/oma_description_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dd_title_description" />
+    <TextView android:id="@id/oma_description" android:paddingBottom="10.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <TextView android:textSize="20.0px" android:id="@id/oma_vendor_title" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dd_title_vendor" />
+    <TextView android:id="@id/oma_vendor" android:paddingBottom="10.0px" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

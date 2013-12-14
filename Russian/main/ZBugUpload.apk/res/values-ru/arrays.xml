@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_name">
+        <item>Китай (Основная территория)</item>
+    </string-array>
+    <string-array name="country_code">
+        <item>+86</item>
+    </string-array>
+    <string-array name="country_code_for_mobile_login">
+        <item>+86</item>
+    </string-array>
+    <string-array name="safe_question">
+        <item>Нет спец. Вопроса</item>
+        <item>Имя Вашей мамы?</item>
+        <item>Имя Вашего дедушки?</item>
+        <item>В каком городе родился Ваш отец?</item>
+        <item>Как звали одного из Ваших учителей?</item>
+        <item>Модель Вашего компьютера?</item>
+        <item>Название любимого ресторана?</item>
+        <item>Последние 4 цифры Вашего водительского удостоверения?</item>
+    </string-array>
+    <string-array name="safe_code">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>

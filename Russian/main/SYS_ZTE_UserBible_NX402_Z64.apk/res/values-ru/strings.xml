@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_manual">Руководство пользователя</string>
+    <string name="user_manual_search_next">Следующая</string>
+    <string name="user_manual_search_no_result">Не сопрягает результат</string>
+    <string name="faq_search_button">Поиск</string>
+</resources>

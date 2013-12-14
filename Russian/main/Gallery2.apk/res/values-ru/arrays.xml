@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="GUIDE_TYPE">
+        <item>ГОРИЗОНТАЛЬНЫЙ</item>
+        <item>ВЕРТИКАЛЬНЫЙ</item>
+        <item>ВОДОВОРОТ</item>
+        <item>РАДИАЛЬНЫЙ</item>
+        <item>СВОБОДНЫЙ</item>
+    </string-array>
+    <string-array name="ACCURACY_MODE">
+        <item>Точно сфокусировано</item>
+        <item>Сбалансировано</item>
+        <item>Быстро сфокусировано</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>Сохранить</item>
+        <item>Поделиться</item>
+        <item>Камера</item>
+        <item>Меню</item>
+    </string-array>
+    <string-array name="ztouch_photo_select_warning">
+        <item>Может быть выбрано только одно фото!</item>
+        <item>Было выбрано 2 фото!</item>
+        <item>Было выбрано 3 фото!</item>
+        <item>Было выбрано 4 фото!</item>
+    </string-array>
+</resources>
