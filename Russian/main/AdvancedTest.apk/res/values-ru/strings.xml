@@ -27,7 +27,7 @@
     <string name="wifi_scan_fail">Сканирование Wi-Fi не удалось</string>
     <string name="bluetooth_request_enable">Ожидание включения bluetooth</string>
     <string name="gps_satellite_num">Номер спутника GPS:</string>
-    <string name="gps_started">Ожидание сионала от спутника…</string>
+    <string name="gps_started">Ожидание сигнала от спутника…</string>
     <string name="provider_disnabled">Поставщик услуг отключен</string>
     <string name="provider_enabled">Поставщик услуг включен</string>
     <string name="gps_status">Ожидание GPS…</string>
