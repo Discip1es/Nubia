@@ -1900,7 +1900,7 @@ It не стирать :
     <string name="power_on_off_sound_disable_summary">Звук отключен</string>
     <string name="missed_event_vibrate_title">Вибрация при пропущенном событии</string>
     <string name="missed_event_vibrate_summary">Вибрация при пропущенных вызовах и сообщениях</string>
-    <string name="sound_effect_enhance_title">Окружение звуком</string>
+    <string name="sound_effect_enhance_title">Dolby Digital Plus</string>
     <string name="sound_effect_enhance_summary_on">Включено</string>
     <string name="sound_effect_enhance_summary_off">Отключено</string>
     <string name="haptic_feedback_enable_summary">Вибрировать при касании</string>
