@@ -870,4 +870,10 @@
     <string name="unlock_failed">Запрос на разблокировку сети не выполнен.</string>
     <string name="unlock_success">Разблокировка сети успешно завершена.</string>
     <string name="preferred_network_mode_lte_cdma_summary">Предпочтительная сеть: LTE или CDMA</string>
+    <string name="title_choose_network_automatically">Автомат. выбор режима сети</string>
+    <string name="sum_current_network_mode">Выбранный режим сети:</string>
+    <string name="sum_current_network_mode_gsm_tdscdma">Выбранный режим сети: GSM/TD-SCDMA</string>
+    <string name="sum_current_network_mode_gsm_wcdma">Выбранный режим сети: GSM/WCDMA</string>
+    <string name="sum_current_network_mode_cdma_evdo_gsm">Выбранный режим сети: CDMA/EvDo/GSM</string>
+    <string name="sum_current_network_mode_cdma_evdo_gsm_wcdma">Выбранный режим сети: CDMA/EvDo/GSM/WCDMA</string>
 </resources>
