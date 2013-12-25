@@ -18,7 +18,7 @@
     <string name="alarm_repeat">Повтор</string>
     <string name="alert">Рингтон</string>
     <string name="time">Время</string>
-    <string name="alarm_alert_dismiss_text">Отложить</string>
+    <string name="alarm_alert_dismiss_text">Отключить</string>
     <string name="alarm_alert_alert_silenced">Выключение будильника через %d минут</string>
     <string name="alarm_alert_snooze_text">Дремать</string>
     <string name="alarm_alert_snooze_set">Дремание через %dминут.</string>
